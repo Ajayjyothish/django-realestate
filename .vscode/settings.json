@@ -1,0 +1,4 @@
+{
+    "python.pythonPath": "my_env/bin/python",
+    "git.ignoreLimitWarning": true
+}
